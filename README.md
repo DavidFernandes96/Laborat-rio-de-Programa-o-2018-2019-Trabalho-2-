@@ -3,7 +3,6 @@ Simulação de um supermercado / Supermarket simulator
 
 David Fernandes             Tiago Bessa
 up201605791@fc.up.pt	      up201606796@fc.up.pt
-up201605791                 up201606796
 
 Instalação / Installation:
 
