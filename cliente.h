@@ -4,7 +4,7 @@
 typedef struct cliente {
   int items;
   int entrada;
-  int priority; //0 -> Urgente | 1,2,3,4 -> Urgente
+  int priority; //0 -> Urgente | 1,2,3,4 -> Nao urgente
 } *CLIENT;
 
 CLIENT mk_client();
