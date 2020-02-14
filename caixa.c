@@ -172,18 +172,6 @@ void trata_primeiro(int p, CAIXA caixa) {
   }
 }
 
-/*void trata_clientesP(int passo, CAIXA lista_caixas[], int size) {
-
-  for(int i = 0; i < size; i++) {
-
-    if(queue_is_empty(lista_caixas[i] -> queueP))
-      disponivelP(passo, lista_caixas[i]);
-
-    else
-      trata_primeiroP(passo, lista_caixas[i]);
-  }
-}*/
-
 void trata_primeiroP(int p, CAIXA caixa) {
   int espera, processados;
 
