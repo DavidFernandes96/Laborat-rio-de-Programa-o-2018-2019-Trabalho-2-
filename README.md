@@ -1,8 +1,11 @@
 # Laboratorio-de-Programaco-2018-2019-Trabalho-2
 Simulação de um supermercado / Supermarket simulator
 
-David Fernandes             Tiago Bessa
-up201605791@fc.up.pt	      up201606796@fc.up.pt
+David Fernandes             
+up201605791@fc.up.pt	
+
+Tiago Bessa
+up201606796@fc.up.pt
 
 Instalação / Installation:
 
