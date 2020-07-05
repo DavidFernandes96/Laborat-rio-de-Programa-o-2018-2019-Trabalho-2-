@@ -1,4 +1,4 @@
-# Laboratorio-de-Programaco-2018-2019-Trabalho-2
+# Laboratório de Programacão (2018/19) - Trabalho 2
 Simulação de um supermercado / Supermarket simulator
 
 David Fernandes up201605791@fc.up.pt
