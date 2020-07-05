@@ -9,9 +9,9 @@ Instalação / Installation:
 
 2) Abra o terminal no diretório onde o programa está presente. / Open the terminal on the same directory as the program.
 
-3) $gcc -Wall *.c -o main
+3) `$gcc -Wall *.c -o main`
 
-4) $./main
+4) `$./main`
 
 5) Dentro do menu principal, escolha a opção "1" para fazer a simulação do supermercado. / "1" for supermarket simulation.
 
