@@ -3,7 +3,7 @@ Simulação de um supermercado / Supermarket simulator
 
 David Fernandes up201605791@fc.up.pt
 
-Instalação / Installation:
+## Como usar / How to use:
 
 1) Extraia o ficheiro para um diretório. / Extract the file to a directory.
 
